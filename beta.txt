@@ -1,0 +1,14 @@
+ED
+como crear unl menu con impresionantes efectos
+
+Metodologia recomednadas para usar CSS
+ 01. http://apuntesalmargen.com/oocss.html
+ 02. https://webdesign.tutsplus.com/es/articles/an-introduction-to-the-bem-methodology--cms-19403
+
+JS -> Notas
+Los nombres de las variables deben usar el formato mayúscula y minúscula (camelCase)
+
+Cada arreglo en JavaScript tiene un métod push() que agregará un nuevo elemento
+al final del arreglo, así que favoriteFoods.push('Lasagna'); sería una manera.
+
+Búscar ejemplos de condicionales, ciclos, objetos, functions en JS
